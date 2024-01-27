@@ -26,7 +26,7 @@ public class ReverseANumber {
         }
 
         for (int j2 = 0; j2 < arr.length; j2++) {
-            System.out.println(arr[j2]);
+            System.out.print(arr[j2]);
         }
     }
 }
